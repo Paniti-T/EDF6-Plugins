@@ -1,6 +1,6 @@
-# EDF6 Swarm Performance Pack
+# EDF6 Plugins
 
-Source for two native [EDFModLoader](https://github.com/BlueAmulet/EDFModLoader/releases)
+Source for native [EDFModLoader](https://github.com/BlueAmulet/EDFModLoader/releases)
 plugins for **EARTH DEFENSE FORCE 6** (Steam):
 
 | Plugin | What it does |
@@ -8,11 +8,12 @@ plugins for **EARTH DEFENSE FORCE 6** (Steam):
 | `EDF6SwarmPerf.dll` | Large FPS gain in big insect swarms (ants, spiders, pillbugs, bees, small dragons). No gameplay change. |
 | `EDF6CorpseCleanup.dll` | Configurable corpse lifetime, ragdoll budget, generator-corpse tracking, optional corpse hitbox removal. |
 
-Released on Nexus Mods as *EDF6 Swarm Performance Pack*.
+`EDF6SwarmPerf` and `EDF6CorpseCleanup` are released together on Nexus Mods as
+*EDF6 Swarm Performance Pack*.
 
-> **AI disclaimer:** this mod was made with AI. The game analysis, the plugin code
-> and the release description were created with an AI coding assistant (Claude).
-> Both plugins were tested in-game before release.
+> **AI disclaimer:** these plugins were made with AI. The game analysis, the plugin
+> code and the release descriptions were created with an AI coding assistant (Claude).
+> Each plugin is tested in-game before release.
 
 ## SwarmPerf
 
