@@ -1,0 +1,8 @@
+# build output
+obj/
+*.obj
+*.pdb
+*.lib
+*.exp
+*.dll
+*.log
